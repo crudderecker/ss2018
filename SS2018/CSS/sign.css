@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	font-family: 'Fredoka One', cursive;
+	background-color: #12678a;
+	zoom: .9;
+}
+
+.logo{
+	text-align: center;
+}
+
+.info{
+	float: left;
+	padding-left: 15px;
+}
+.box{
+	width: 600px;
+	height: 50px;
+	border-radius: 12px;
+	font-size: 18px;
+	font-family: 'Fredoka One', cursive;
+	color: #adafb2;
+}
+
+.radio input{
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+}
+
+option{
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+}
+
+.final{
+	width: 450px;
+}
+
+.complete{
+	font-family: 'Fredoka One', cursive;
+	background-color: white;
+	border-radius: 12px; /* Green */
+    border: none;
+    color: #12678a;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 26px;
+	  padding: 14px 40px;
+}
+
+select{
+	font-family: 'Fredoka One', cursive;
+	font-size: 18px;
+	padding: 10px;
+}
+.check{
+	text-align: center;
+}
